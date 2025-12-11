@@ -1,7 +1,7 @@
 
 const prompt = require("prompt-sync")({ sigint: true });
 
-
+ 
  while (true) {
     console.log("====== Calculadora =======")
     console.log("Ingrese el numero que desea para poder realizar las operacion")
